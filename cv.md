@@ -37,3 +37,15 @@ I am a **_motivated_** Frontend developer. Overall I have an experience in creat
 - Adobe Photoshop, Illustrator, Figma
 
 ---
+
+### **Courses:**
+
+- University: Kherson National Technical University
+- Loftschool [Basic Murcup](https://loftschool.com/diploma/IM1564666083/en/pdf)
+- JavaScript Manual on learnjavascript.ru
+- Loftschool [Web Development for Beginners](https://loftschool.com/diploma/PM1570104832/en/pdf)
+- Loftschool [Vue.js Advanced web development](https://loftschool.com/diploma/RY1573803341/en/pdf)
+- JS. HowProgrammingWorks. Examples for Software Engineering and Programming Lectures (Timur Shemsedinov)
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+---
