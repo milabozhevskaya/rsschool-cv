@@ -49,3 +49,21 @@ I am a **_motivated_** Frontend developer. Overall I have an experience in creat
 - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ---
+
+### **Languages:**
+
+- English - Pre-Intermediate/Intermediate
+- Ukrainian - Native
+- Russian - Native
+- Polish - Basic
+
+---
+
+### **My works:**
+
+- [Matrix rain](https://bo-mila.github.io/matrix-rain/): Used HTML5, CSS3, Sass, JS, Canvas
+- [EFood](https://bo-mila.github.io/EFood/): Used HTML5, CSS3, Sass, JS, Swiper.js, Gulp
+- [Editor for HTML code (Vue.js)](https://bo-mila.github.io/editorHTML/): Used HTML5, CSS3, JS, Vue.js, Sass
+- [Tree (Factorial Tree)](https://bo-mila.github.io/tree/tree/): Used HTML, CSS3, JS, Canvas
+
+---
