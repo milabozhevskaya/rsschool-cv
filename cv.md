@@ -54,3 +54,12 @@ I am a motivated Frontend Developer with experience in creating user-friendly in
 - Russian - Native
 
 ---
+
+### **My works:**
+
+- [Matrix rain](https://milabozhevskaya.github.io/matrix-rain/): Used HTML5, CSS3, Sass, JS, Canvas
+- [EFood](https://milabozhevskaya.github.io/EFood/): Used HTML5, CSS3, Sass, JS, Swiper.js, Gulp
+- [Editor for HTML code (Vue.js)](https://milabozhevskaya.github.io/editorHTML/): Used HTML5, CSS3, JS, Vue.js, Sass
+- [Tree (Factorial Tree)](https://milabozhevskaya.github.io/tree/tree/): Used HTML, CSS3, JS, Canvas
+
+---
