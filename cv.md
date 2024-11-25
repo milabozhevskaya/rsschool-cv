@@ -37,3 +37,20 @@ I am a motivated Frontend Developer with experience in creating user-friendly in
 - Adobe Photoshop, Illustrator, Figma
 
 ---
+
+### **Courses:**
+
+- University: Kherson National Technical University
+- Loftschool [Basic Murcup](https://loftschool.com/diploma/IM1564666083/en/pdf)
+- Loftschool [Web Development for Beginners](https://loftschool.com/diploma/PM1570104832/en/pdf)
+- Loftschool [Vue.js Advanced web development](https://loftschool.com/diploma/RY1573803341/en/pdf)
+
+---
+
+### **Languages:**
+
+- English - Pre-Intermediate/Intermediate
+- Ukrainian - Native
+- Russian - Native
+
+---
